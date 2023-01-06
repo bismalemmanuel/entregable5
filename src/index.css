@@ -26,4 +26,6 @@
   }
   input {
     outline: 0;
+    border: none;
+    display: inline-block;
   }
